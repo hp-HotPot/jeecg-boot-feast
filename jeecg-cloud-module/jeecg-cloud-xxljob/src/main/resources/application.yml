@@ -19,6 +19,7 @@ spring:
       max-lifetime: 900000
       connection-timeout: 10000
       connection-test-query: SELECT 1
+
   #邮箱配置
   mail:
     host: smtphz.qiye.163.com
